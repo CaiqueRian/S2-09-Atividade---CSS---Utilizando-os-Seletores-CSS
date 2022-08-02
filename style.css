@@ -1,47 +1,47 @@
-.title-main{
+.title-main {
     text-align: center;
     font-size: 45px;
 }
 
-.azul{
+.azul {
     color: #1E90FF;
 }
 
-.link{
+.link {
     color: #1E90FF;
 }
 
-.fundo-preto{
+.fundo-preto {
     background-color: black;
     color: white;
     text-align: center;
 }
 
-.titulo2{
+.titulo2 {
     margin-top: 35px;
     font-family: 'Lato', sans-serif;
 }
 
-.titulos-gerais{
+.titulos-gerais {
     font-family: 'Lato', sans-serif;
 }
 
-.azul-background{
+.azul-background {
     background-color: #0000FF;
     color: white;
     font-size: 20px;
 }
 
-.texto1{
+.texto1 {
     font-size: 20px;
 }
 
-.linhas{
+.linhas {
     text-decoration: underline;
     margin-left: -20px;
     line-height: 35px;
 }
 
-.conteudo{
+.conteudo {
     line-height: 80px;
 }
