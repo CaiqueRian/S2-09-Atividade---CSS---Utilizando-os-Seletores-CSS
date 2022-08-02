@@ -1,0 +1,47 @@
+.title-main{
+    text-align: center;
+    font-size: 45px;
+}
+
+.azul{
+    color: #1E90FF;
+}
+
+.link{
+    color: #1E90FF;
+}
+
+.fundo-preto{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.titulo2{
+    margin-top: 35px;
+    font-family: 'Lato', sans-serif;
+}
+
+.titulos-gerais{
+    font-family: 'Lato', sans-serif;
+}
+
+.azul-background{
+    background-color: #0000FF;
+    color: white;
+    font-size: 20px;
+}
+
+.texto1{
+    font-size: 20px;
+}
+
+.linhas{
+    text-decoration: underline;
+    margin-left: -20px;
+    line-height: 35px;
+}
+
+.conteudo{
+    line-height: 80px;
+}
